@@ -16,8 +16,8 @@ print 开始style checking
 wd=`pwd`
 print "当前工作目录：$wd"
 
-check_jar_path="$wd/check-style/checkstyle-8.12-all.jar"
-check_xml_path="$wd/check-style/iad-checkstyle.xml"
+check_jar_path="$wd/check-style/checkstyle-8.14.jar"
+check_xml_path="$wd/check-style/my-checkstyle.xml"
 
 # echo $check_jar_path $check_xml_path
 

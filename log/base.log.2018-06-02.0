@@ -1,0 +1,4 @@
+2018-06-02 15:46:28,190 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on localhost with PID 40560 (/Users/jackshen/Documents/github/springboot2-mybatis-api/target/classes started by jackshen in /Users/jackshen/Documents/github/springboot2-mybatis-api)
+2018-06-02 15:46:28,203 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-06-02 15:46:28,208 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-06-02 15:46:32,703 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 5.256 seconds (JVM running for 6.474)

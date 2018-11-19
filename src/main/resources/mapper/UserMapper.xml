@@ -6,25 +6,9 @@
   </sql>
 
   <sql id="BASE_COLUMN">
-    userId,userName,password,phone
+    id,userName,password,phone,classId
   </sql>
 
-  <insert id="insert" parameterType="com.winterchen.model.UserDomain">
-    INSERT INTO
-      <include refid="BASE_TABLE"/>
-    <trim prefix="(" suffix=")" suffixOverrides=",">
-      userName,password,
-      <if test="phone != null">
-        phone,
-      </if>
-    </trim>
-    <trim prefix="VALUES(" suffix=")" suffixOverrides=",">
-      #{userName, jdbcType=VARCHAR},#{password, jdbcType=VARCHAR},
-      <if test="phone != null">
-        #{phone, jdbcType=VARCHAR},
-      </if>
-    </trim>
-  </insert>
 
   <select id="selectUsers" resultType="com.winterchen.model.UserDomain">
       SELECT
@@ -33,5 +17,7 @@
         <include refid="BASE_TABLE"/>
   </select>
 
-
+  <insert id="insert" parameterType="com.winterchen.model.UserDomain">
+    INSERT INTO t_user(user_name,password,phone,class_id) values(#{userName},#{password},#{phone},#{classId})
+  </insert>
 </mapper>

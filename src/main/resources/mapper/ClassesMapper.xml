@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.winterchen.dao.ClassesDao">
+    <insert id="insert" parameterType="com.winterchen.model.ClassesDomain">
+    INSERT INTO t_classes(class_name) values(#{className})
+  </insert>
+    <resultMap id="classesMap" type="com.winterchen.model.ClassesDomain">
+        <id property="id" column="id"/>
+        <result property="className" column="class_name"/>
+        <association property="countUser" column="_count1" select="selectCountUser" />
+    </resultMap>
+    <select id="findAll" resultMap="classesMap">
+      select id,class_name  from t_classes
+    </select>
+    <select id="selectCountUser">
+         select count(1) _count1 from t_user where class_id=#{id}
+    </select>
+</mapper>

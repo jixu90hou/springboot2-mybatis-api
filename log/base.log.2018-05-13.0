@@ -1,0 +1,223 @@
+2018-05-13 21:36:56,530 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on localhost with PID 33108 (/Users/jackshen/Documents/github/springboot2-mybatis-api/target/classes started by jackshen in /Users/jackshen/Documents/github/springboot2-mybatis-api)
+2018-05-13 21:36:56,534 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-05-13 21:36:56,537 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-05-13 21:37:00,285 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 4.39 seconds (JVM running for 5.481)
+2018-05-13 21:37:02,257 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT count(0) FROM t_classes 
+2018-05-13 21:37:02,289 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 21:37:02,331 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2018-05-13 21:37:02,334 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name className from t_classes LIMIT ? 
+2018-05-13 21:37:02,336 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 10(Integer)
+2018-05-13 21:37:02,361 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 21:39:51,335 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on localhost with PID 33116 (/Users/jackshen/Documents/github/springboot2-mybatis-api/target/classes started by jackshen in /Users/jackshen/Documents/github/springboot2-mybatis-api)
+2018-05-13 21:39:51,338 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-05-13 21:39:51,340 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-05-13 21:39:54,974 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 4.232 seconds (JVM running for 5.498)
+2018-05-13 21:39:57,523 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT count(0) FROM t_classes 
+2018-05-13 21:39:57,546 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 21:39:57,575 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2018-05-13 21:39:57,577 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name className from t_classes LIMIT ? 
+2018-05-13 21:39:57,578 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 10(Integer)
+2018-05-13 21:39:57,597 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 21:40:38,484 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on localhost with PID 33122 (/Users/jackshen/Documents/github/springboot2-mybatis-api/target/classes started by jackshen in /Users/jackshen/Documents/github/springboot2-mybatis-api)
+2018-05-13 21:40:38,488 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-05-13 21:40:38,490 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-05-13 21:40:41,846 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 3.962 seconds (JVM running for 5.007)
+2018-05-13 21:40:44,182 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name className from t_classes 
+2018-05-13 21:40:44,206 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 21:40:44,238 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 21:40:45,642 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name className from t_classes 
+2018-05-13 21:40:45,643 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 21:40:45,662 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 21:44:46,718 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on localhost with PID 33137 (/Users/jackshen/Documents/github/springboot2-mybatis-api/target/classes started by jackshen in /Users/jackshen/Documents/github/springboot2-mybatis-api)
+2018-05-13 21:44:46,726 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-05-13 21:44:46,728 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-05-13 21:44:50,582 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 4.381 seconds (JVM running for 5.49)
+2018-05-13 21:44:54,459 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name className from t_classes 
+2018-05-13 21:44:54,483 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 21:44:54,515 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 21:45:43,086 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on localhost with PID 33143 (/Users/jackshen/Documents/github/springboot2-mybatis-api/target/classes started by jackshen in /Users/jackshen/Documents/github/springboot2-mybatis-api)
+2018-05-13 21:45:43,089 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-05-13 21:45:43,101 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-05-13 21:45:46,177 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 3.779 seconds (JVM running for 4.944)
+2018-05-13 21:45:51,759 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name className from t_classes 
+2018-05-13 21:45:51,780 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 21:45:51,808 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 21:47:36,549 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on localhost with PID 33157 (/Users/jackshen/Documents/github/springboot2-mybatis-api/target/classes started by jackshen in /Users/jackshen/Documents/github/springboot2-mybatis-api)
+2018-05-13 21:47:36,556 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-05-13 21:47:36,558 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-05-13 21:47:39,872 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 4.177 seconds (JVM running for 5.394)
+2018-05-13 21:47:43,865 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 21:47:43,891 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 21:47:43,920 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 21:48:15,874 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on localhost with PID 33163 (/Users/jackshen/Documents/github/springboot2-mybatis-api/target/classes started by jackshen in /Users/jackshen/Documents/github/springboot2-mybatis-api)
+2018-05-13 21:48:15,879 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-05-13 21:48:15,882 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-05-13 21:48:19,911 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 4.615 seconds (JVM running for 5.815)
+2018-05-13 21:48:21,377 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 21:48:21,399 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 21:48:21,432 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 21:48:47,038 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on localhost with PID 33169 (/Users/jackshen/Documents/github/springboot2-mybatis-api/target/classes started by jackshen in /Users/jackshen/Documents/github/springboot2-mybatis-api)
+2018-05-13 21:48:47,042 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-05-13 21:48:47,044 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-05-13 21:48:50,636 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 4.086 seconds (JVM running for 5.16)
+2018-05-13 21:49:02,257 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 21:49:02,280 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 21:49:02,318 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 21:49:09,941 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on localhost with PID 33176 (/Users/jackshen/Documents/github/springboot2-mybatis-api/target/classes started by jackshen in /Users/jackshen/Documents/github/springboot2-mybatis-api)
+2018-05-13 21:49:09,950 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-05-13 21:49:09,955 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-05-13 21:49:13,735 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 4.324 seconds (JVM running for 5.426)
+2018-05-13 21:49:32,266 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 21:49:32,287 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 21:49:32,317 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 21:52:13,982 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on localhost with PID 33183 (/Users/jackshen/Documents/github/springboot2-mybatis-api/target/classes started by jackshen in /Users/jackshen/Documents/github/springboot2-mybatis-api)
+2018-05-13 21:52:13,987 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-05-13 21:52:13,991 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-05-13 21:52:17,816 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 4.55 seconds (JVM running for 5.485)
+2018-05-13 21:52:18,752 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 21:52:18,776 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 21:52:18,811 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 21:52:20,253 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 21:52:20,254 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 21:52:20,280 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 21:52:21,075 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 21:52:21,076 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 21:52:21,099 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 21:56:11,202 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on localhost with PID 33194 (/Users/jackshen/Documents/github/springboot2-mybatis-api/target/classes started by jackshen in /Users/jackshen/Documents/github/springboot2-mybatis-api)
+2018-05-13 21:56:11,212 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-05-13 21:56:11,215 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-05-13 21:56:14,774 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 4.095 seconds (JVM running for 5.157)
+2018-05-13 21:56:19,920 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 21:56:19,948 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 21:56:19,994 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 21:56:51,300 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on localhost with PID 33202 (/Users/jackshen/Documents/github/springboot2-mybatis-api/target/classes started by jackshen in /Users/jackshen/Documents/github/springboot2-mybatis-api)
+2018-05-13 21:56:51,306 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-05-13 21:56:51,308 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-05-13 21:56:55,177 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 4.442 seconds (JVM running for 5.691)
+2018-05-13 21:56:56,743 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 21:56:56,773 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 21:56:56,823 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 21:56:58,136 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 21:56:58,137 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 21:56:58,161 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 21:59:09,223 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on localhost with PID 33230 (/Users/jackshen/Documents/github/springboot2-mybatis-api/target/classes started by jackshen in /Users/jackshen/Documents/github/springboot2-mybatis-api)
+2018-05-13 21:59:09,238 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-05-13 21:59:09,241 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-05-13 21:59:12,914 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 4.279 seconds (JVM running for 5.393)
+2018-05-13 21:59:15,786 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 21:59:15,807 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 21:59:15,840 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 21:59:16,921 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 21:59:16,922 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 21:59:16,945 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 21:59:17,122 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 21:59:17,123 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 21:59:17,137 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 21:59:17,285 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 21:59:17,286 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 21:59:17,299 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 21:59:17,471 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 21:59:17,472 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 21:59:17,493 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 22:51:50,689 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on localhost with PID 33273 (/Users/jackshen/Documents/github/springboot2-mybatis-api/target/classes started by jackshen in /Users/jackshen/Documents/github/springboot2-mybatis-api)
+2018-05-13 22:51:50,695 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-05-13 22:51:50,699 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-05-13 22:51:54,802 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 4.707 seconds (JVM running for 5.693)
+2018-05-13 22:51:55,849 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 22:51:55,870 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 22:51:55,924 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 22:51:57,378 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 22:51:57,379 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 22:51:57,408 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 22:51:58,396 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 22:51:58,397 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 22:51:58,424 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 22:52:28,315 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on localhost with PID 33280 (/Users/jackshen/Documents/github/springboot2-mybatis-api/target/classes started by jackshen in /Users/jackshen/Documents/github/springboot2-mybatis-api)
+2018-05-13 22:52:28,319 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-05-13 22:52:28,326 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-05-13 22:52:32,245 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 4.504 seconds (JVM running for 5.609)
+2018-05-13 22:52:33,195 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 22:52:33,216 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 22:52:33,247 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 22:52:34,386 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 22:52:34,389 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 22:52:34,491 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 22:52:35,236 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 22:52:35,236 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 22:52:35,250 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 22:52:35,443 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 22:52:35,446 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 22:52:35,459 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 22:52:35,599 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 22:52:35,599 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 22:52:35,616 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 22:52:35,777 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 22:52:35,778 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 22:52:35,793 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 22:55:56,503 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on localhost with PID 33292 (/Users/jackshen/Documents/github/springboot2-mybatis-api/target/classes started by jackshen in /Users/jackshen/Documents/github/springboot2-mybatis-api)
+2018-05-13 22:55:56,507 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-05-13 22:55:56,511 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-05-13 22:56:00,327 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 4.331 seconds (JVM running for 5.401)
+2018-05-13 22:56:02,144 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 22:56:02,180 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 22:56:02,212 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 22:56:03,664 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 22:56:03,665 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 22:56:03,682 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 22:56:23,654 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on localhost with PID 33297 (/Users/jackshen/Documents/github/springboot2-mybatis-api/target/classes started by jackshen in /Users/jackshen/Documents/github/springboot2-mybatis-api)
+2018-05-13 22:56:23,662 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-05-13 22:56:23,668 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-05-13 22:58:42,486 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on localhost with PID 33303 (/Users/jackshen/Documents/github/springboot2-mybatis-api/target/classes started by jackshen in /Users/jackshen/Documents/github/springboot2-mybatis-api)
+2018-05-13 22:58:42,505 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-05-13 22:58:42,509 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-05-13 22:58:46,239 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 4.351 seconds (JVM running for 5.742)
+2018-05-13 22:58:47,299 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 22:58:47,321 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 22:58:47,356 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 22:58:48,788 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 22:58:48,790 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 22:58:48,806 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 22:58:49,392 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 22:58:49,392 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 22:58:49,410 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 22:58:49,543 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 22:58:49,543 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 22:58:49,788 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 22:58:49,966 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 22:58:49,967 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 22:58:49,984 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 22:58:50,104 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 22:58:50,105 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 22:58:50,123 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 22:58:50,249 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 22:58:50,250 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 22:58:50,281 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 22:58:50,394 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 22:58:50,395 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 22:58:50,408 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 22:58:50,527 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 22:58:50,528 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 22:58:50,557 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 22:58:50,683 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 22:58:50,683 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 22:58:50,708 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 22:58:50,825 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 22:58:50,825 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 22:58:50,843 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 23:00:26,614 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on localhost with PID 33319 (/Users/jackshen/Documents/github/springboot2-mybatis-api/target/classes started by jackshen in /Users/jackshen/Documents/github/springboot2-mybatis-api)
+2018-05-13 23:00:26,622 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-05-13 23:00:26,625 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-05-13 23:00:30,191 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 4.294 seconds (JVM running for 5.407)
+2018-05-13 23:00:40,823 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 23:00:40,844 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 23:00:40,876 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 23:02:37,117 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on localhost with PID 33332 (/Users/jackshen/Documents/github/springboot2-mybatis-api/target/classes started by jackshen in /Users/jackshen/Documents/github/springboot2-mybatis-api)
+2018-05-13 23:02:37,121 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-05-13 23:02:37,123 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-05-13 23:02:41,012 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 4.361 seconds (JVM running for 5.331)
+2018-05-13 23:02:50,443 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 23:02:50,466 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 23:02:50,505 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-05-13 23:02:51,677 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select id,class_name from t_classes 
+2018-05-13 23:02:51,678 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-05-13 23:02:51,693 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3

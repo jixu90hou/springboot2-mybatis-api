@@ -6,5 +6,6 @@ public class Test {
         System.out.println("真的很好");
         System.out.println("你好啊");
         System.out.println("BBBBBBBB");
+        System.out.println("Aeeee");
     }
 }

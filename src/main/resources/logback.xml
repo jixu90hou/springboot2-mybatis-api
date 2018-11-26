@@ -25,7 +25,7 @@
     <root level="info">
         <appender-ref ref="STDOUT"/>
     </root>
-    <logger name="com.winterchen" level="DEBUG">
+    <logger name="com.shen" level="DEBUG">
         <appender-ref ref="baselog"/>
     </logger>
 </configuration>

@@ -1,1 +1,68 @@
-2018-10-04 12:52:24,645 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 3
+2018-11-28 08:53:29,971 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on lenovo-PC with PID 162052 (E:\git-test\springboot2-mybatis-api\target\classes started by Administrator in E:\git-test\springboot2-mybatis-api)
+2018-11-28 08:53:29,976 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-11-28 08:53:29,977 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-11-28 08:53:32,496 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 2.867 seconds (JVM running for 3.632)
+2018-11-28 08:54:46,832 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on lenovo-PC with PID 163244 (E:\git-test\springboot2-mybatis-api\target\classes started by Administrator in E:\git-test\springboot2-mybatis-api)
+2018-11-28 08:54:46,835 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-11-28 08:54:46,836 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-11-28 08:54:49,209 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 2.719 seconds (JVM running for 3.489)
+2018-11-28 09:03:58,215 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on lenovo-PC with PID 168672 (E:\git-test\springboot2-mybatis-api\target\classes started by Administrator in E:\git-test\springboot2-mybatis-api)
+2018-11-28 09:03:58,218 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-11-28 09:03:58,219 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-11-28 09:04:00,567 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 2.7 seconds (JVM running for 3.512)
+2018-11-28 09:06:07,351 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on lenovo-PC with PID 165240 (E:\git-test\springboot2-mybatis-api\target\classes started by Administrator in E:\git-test\springboot2-mybatis-api)
+2018-11-28 09:06:07,354 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-11-28 09:06:07,355 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-11-28 09:06:09,663 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 2.624 seconds (JVM running for 3.421)
+2018-11-28 09:13:35,571 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on lenovo-PC with PID 168444 (E:\git-test\springboot2-mybatis-api\target\classes started by Administrator in E:\git-test\springboot2-mybatis-api)
+2018-11-28 09:13:35,574 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-11-28 09:13:35,575 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-11-28 09:13:38,083 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 2.876 seconds (JVM running for 3.654)
+2018-11-28 09:17:39,681 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on lenovo-PC with PID 154232 (E:\git-test\springboot2-mybatis-api\target\classes started by Administrator in E:\git-test\springboot2-mybatis-api)
+2018-11-28 09:17:39,683 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-11-28 09:17:39,684 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-11-28 09:17:42,285 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 3.09 seconds (JVM running for 3.885)
+2018-11-28 09:19:17,157 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on lenovo-PC with PID 165176 (E:\git-test\springboot2-mybatis-api\target\classes started by Administrator in E:\git-test\springboot2-mybatis-api)
+2018-11-28 09:19:17,159 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-11-28 09:19:17,161 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-11-28 09:19:19,421 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 2.731 seconds (JVM running for 3.495)
+2018-11-28 09:20:22,823 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on lenovo-PC with PID 163252 (E:\git-test\springboot2-mybatis-api\target\classes started by Administrator in E:\git-test\springboot2-mybatis-api)
+2018-11-28 09:20:22,825 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-11-28 09:20:22,827 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-11-28 09:20:25,162 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 2.693 seconds (JVM running for 3.51)
+2018-11-28 09:22:31,013 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on lenovo-PC with PID 167176 (E:\git-test\springboot2-mybatis-api\target\classes started by Administrator in E:\git-test\springboot2-mybatis-api)
+2018-11-28 09:22:31,017 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-11-28 09:22:31,018 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-11-28 09:22:33,470 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 2.79 seconds (JVM running for 3.574)
+2018-11-28 09:23:54,718 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on lenovo-PC with PID 167564 (E:\git-test\springboot2-mybatis-api\target\classes started by Administrator in E:\git-test\springboot2-mybatis-api)
+2018-11-28 09:23:54,721 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-11-28 09:23:54,722 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-11-28 09:23:57,151 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 2.849 seconds (JVM running for 3.782)
+2018-11-28 09:31:42,935 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on lenovo-PC with PID 166576 (E:\git-test\springboot2-mybatis-api\target\classes started by Administrator in E:\git-test\springboot2-mybatis-api)
+2018-11-28 09:31:42,937 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-11-28 09:31:42,939 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-11-28 09:31:45,465 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 2.914 seconds (JVM running for 3.67)
+2018-11-28 09:37:20,531 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on lenovo-PC with PID 167948 (E:\git-test\springboot2-mybatis-api\target\classes started by Administrator in E:\git-test\springboot2-mybatis-api)
+2018-11-28 09:37:20,534 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-11-28 09:37:20,535 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-11-28 09:37:22,958 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 2.833 seconds (JVM running for 3.605)
+2018-11-28 09:39:28,213 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on lenovo-PC with PID 167120 (E:\git-test\springboot2-mybatis-api\target\classes started by Administrator in E:\git-test\springboot2-mybatis-api)
+2018-11-28 09:39:28,215 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-11-28 09:39:28,217 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-11-28 09:39:30,529 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 2.701 seconds (JVM running for 3.473)
+2018-11-28 09:44:49,351 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on lenovo-PC with PID 164860 (E:\git-test\springboot2-mybatis-api\target\classes started by Administrator in E:\git-test\springboot2-mybatis-api)
+2018-11-28 09:44:49,355 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-11-28 09:44:49,356 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-11-28 09:44:51,764 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 2.815 seconds (JVM running for 3.618)
+2018-11-28 09:48:28,538 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on lenovo-PC with PID 167444 (E:\git-test\springboot2-mybatis-api\target\classes started by Administrator in E:\git-test\springboot2-mybatis-api)
+2018-11-28 09:48:28,541 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-11-28 09:48:28,542 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-11-28 09:48:31,077 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 2.907 seconds (JVM running for 3.647)
+2018-11-28 10:52:13,772 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on lenovo-PC with PID 74980 (E:\git-test\springboot2-mybatis-api\target\classes started by Administrator in E:\git-test\springboot2-mybatis-api)
+2018-11-28 10:52:13,802 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-11-28 10:52:13,804 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-11-28 10:52:16,161 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 3.058 seconds (JVM running for 3.899)
+2018-11-28 11:03:59,925 INFO (StartupInfoLogger.java:50)- Starting Springboot2MybatisApiApplication on lenovo-PC with PID 58980 (E:\git-test\springboot2-mybatis-api\target\classes started by Administrator in E:\git-test\springboot2-mybatis-api)
+2018-11-28 11:03:59,927 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-11-28 11:03:59,928 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-11-28 11:04:02,389 INFO (StartupInfoLogger.java:59)- Started Springboot2MybatisApiApplication in 2.971 seconds (JVM running for 3.794)
